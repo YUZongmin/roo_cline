@@ -410,9 +410,9 @@ ${
 
 # MCP Servers Are Not Always Necessary
 
-The user may not always request the use or creation of MCP servers. Instead, they might provide tasks that can be completed with existing tools. While using the MCP SDK to extend your capabilities can be useful, it's important to understand that this is just one specialized type of task you can accomplish. You should only implement MCP servers when the user explicitly requests it (e.g., "add a tool that...").
+The user may not always request the use of MCP servers. Instead, they might provide tasks that can be completed with existing tools. While using the MCP to extend your capabilities can be useful, it's important to understand that this is just one specialized type of task you can accomplish.
 
-Remember: The MCP documentation and example provided above are to help you understand and work with existing MCP servers or create new ones when requested by the user. You already have access to tools and capabilities that can be used to accomplish a wide range of tasks.` : ''}
+Remember: The MCP documentation and example provided above are to help you understand and work with existing MCP servers requested by the user. You already have access to tools and capabilities that can be used to accomplish a wide range of tasks.` : ''}
 
 ====
  
